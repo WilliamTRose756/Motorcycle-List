@@ -874,6 +874,16 @@ button {
   }
 }
 
+@media screen and (min-width: 2000px) {
+  .emailInput {
+    padding-left: 4%;
+  }
+
+  .passwordInput {
+    padding-left: 4%;
+  }
+}
+
 @media screen and (min-width: 650px) {
   #edit-listing-page {
     display: block;
